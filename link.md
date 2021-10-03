@@ -17,6 +17,7 @@
 * [Gitlab Tutorial for Absolute Beginners](https://www.tutorialspoint.com/gitlab/index.htm)
 * [Gitlab CI Examples](https://gitlab.com/gitlab-examples)
 * [Gitlab Package Registery Demo](https://www.youtube.com/watch?v=ui2nNBwN35c)
+* [Jenkins Tutorial](https://github.com/ssbostan/jenkins-tutorial)
 
 ## <a name='Docker'></a>Docker
 * [Docker Labs](https://github.com/collabnix/dockerlabs)
