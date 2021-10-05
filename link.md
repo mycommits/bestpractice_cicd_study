@@ -11,6 +11,8 @@
 * [What Is SDLC](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm)
 * [What is Agile Methodology?](https://www.redhat.com/en/topics/devops/what-is-agile-methodology)
   * [Agile Revolution](https://www.redhat.com/en/command-line-heroes/season-1/agile-revolution)
+* [DevOps Resources](https://github.com/bregman-arie/devops-resources)
+* [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 
 # <a name='ContinuousIntegration'></a>Continuous Integration
 
@@ -19,8 +21,14 @@
 * [Gitlab Package Registery Demo](https://www.youtube.com/watch?v=ui2nNBwN35c)
 * [Jenkins Tutorial](https://github.com/ssbostan/jenkins-tutorial)
 
+# <a name='ContinuousDeployment'></a>Continuous Deployment
+
+# <a name='ToolsandTechnologies'></a>Tools and Technologies
+
 ## <a name='Docker'></a>Docker
+
 * [Docker Labs](https://github.com/collabnix/dockerlabs)
 
-# <a name='Kubernetes'></a>Kubernetes
+## <a name='Kubernetes'></a>Kubernetes
+
 * [Kubernetes Readme](https://kubernetesreadme.com/)
