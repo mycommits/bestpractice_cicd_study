@@ -11,8 +11,10 @@
 * [What Is SDLC](https://www.tutorialspoint.com/sdlc/sdlc_overview.htm)
 * [What is Agile Methodology?](https://www.redhat.com/en/topics/devops/what-is-agile-methodology)
   * [Agile Revolution](https://www.redhat.com/en/command-line-heroes/season-1/agile-revolution)
+* [How companies around the world practice DevOps?](https://github.com/bregman-arie/howtheydevops)
 * [DevOps Resources](https://github.com/bregman-arie/devops-resources)
 * [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+* [Jenkins Goodies](https://github.com/bregman-arie/jenkins-goodies)
 
 # <a name='ContinuousIntegration'></a>Continuous Integration
 
