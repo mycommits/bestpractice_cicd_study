@@ -10,6 +10,6 @@ Feel free to contribute and add resources.
 
 [Continuous Integration](link.md#ContinuousIntegration)
 
-[Docker](link.md#Docker)
+[Continuous Deployment](link.md#ContinuousDeployment)
 
-[Kubernetes](link.md#Kubernetes)
+[Tools and Technologies](link.md#ToolsandTechnologies)
