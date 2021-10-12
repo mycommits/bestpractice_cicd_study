@@ -34,3 +34,4 @@
 ## <a name='Kubernetes'></a>Kubernetes
 
 * [Kubernetes Readme](https://kubernetesreadme.com/)
+* [20 Kubernetes Questions](https://medium.com/@asad_5112/top-20-kubernetes-interview-questions-bf2beb528cea)
