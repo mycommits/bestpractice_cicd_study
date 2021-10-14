@@ -35,8 +35,12 @@
 ## <a name='Kubernetes'></a>Kubernetes
 
 * [Kubernetes Readme](https://kubernetesreadme.com/)
+<<<<<<< HEAD
 
 # <a name='SampleProjects'></a>Sample Projects
 
 * [AWS Elastic Wordpress](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-elastic-wordpress-evolution)
 * [AWS Serverless App](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-serverless-pet-cuddle-o-tron)
+=======
+* [20 Kubernetes Questions](https://medium.com/@asad_5112/top-20-kubernetes-interview-questions-bf2beb528cea)
+>>>>>>> 1a48af0e1df4b7e40f1a255e5c04316fbe1a8342
