@@ -18,6 +18,7 @@
 
 # <a name='ContinuousIntegration'></a>Continuous Integration
 
+* [A Sample Git Workflow](https://blog.osteele.com/2008/05/my-git-workflow/)
 * [Gitlab Tutorial for Absolute Beginners](https://www.tutorialspoint.com/gitlab/index.htm)
 * [Gitlab CI Examples](https://gitlab.com/gitlab-examples)
 * [Gitlab Package Registery Demo](https://www.youtube.com/watch?v=ui2nNBwN35c)
@@ -34,3 +35,8 @@
 ## <a name='Kubernetes'></a>Kubernetes
 
 * [Kubernetes Readme](https://kubernetesreadme.com/)
+
+# <a name='SampleProjects'></a>Sample Projects
+
+* [AWS Elastic Wordpress](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-elastic-wordpress-evolution)
+* [AWS Serverless App](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-serverless-pet-cuddle-o-tron)
