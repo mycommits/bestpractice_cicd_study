@@ -19,6 +19,7 @@
 # <a name='ContinuousIntegration'></a>Continuous Integration
 
 * [A Sample Git Workflow](https://blog.osteele.com/2008/05/my-git-workflow/)
+* [The Thing About GIT](https://tomayko.com/blog/2008/the-thing-about-git)
 * [Gitlab Tutorial for Absolute Beginners](https://www.tutorialspoint.com/gitlab/index.htm)
 * [Gitlab CI Examples](https://gitlab.com/gitlab-examples)
 * [Gitlab Package Registery Demo](https://www.youtube.com/watch?v=ui2nNBwN35c)
