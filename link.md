@@ -38,6 +38,10 @@
 * [Kubernetes Readme](https://kubernetesreadme.com/)
 * [20 Kubernetes Questions](https://medium.com/@asad_5112/top-20-kubernetes-interview-questions-bf2beb528cea)
 
+## <a name='Jenkins'></a>Jenkins
+
+* [Warning Next Generation Plugin](https://www.youtube.com/watch?v=tj3xYFA6Q2o)
+
 # <a name='SampleProjects'></a>Sample Projects
 
 * [AWS Elastic Wordpress](https://github.com/acantril/learn-cantrill-io-labs/tree/master/aws-elastic-wordpress-evolution)
